@@ -17,6 +17,11 @@
       "extends": "packages:linters",
       "groupName": "linters",
       "automerge": true
+    },
+    {
+      "extends": "packages:jsUnitTest",
+      "groupName": "unit test packages",
+      "automerge": true
     }
   ]
 }
