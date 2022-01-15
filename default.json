@@ -8,5 +8,8 @@
   "dependencyDashboard": true,
   "schedule": [
     "after 4am and before 7am on saturday"
+  ],
+  "labels": [
+    "dependencies"
   ]
 }
