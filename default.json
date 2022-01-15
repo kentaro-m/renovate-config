@@ -4,5 +4,6 @@
     "config:base",
     ":timezone(Asia/Tokyo)",
     ":prHourlyLimitNone"
-  ]
+  ],
+  "dependencyDashboard": true
 }
