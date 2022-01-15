@@ -11,5 +11,12 @@
   ],
   "labels": [
     "dependencies"
+  ],
+  "packageRules": [
+    {
+      "extends": "packages:linters",
+      "groupName": "linters",
+      "automerge": true
+    }
   ]
 }
