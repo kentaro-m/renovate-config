@@ -31,7 +31,7 @@
       "automerge": true
     },
     {
-      "matchUpdateTypes": ["minor", "patch"],
+      "matchUpdateTypes": ["minor", "patch", "pin"],
       "automerge": true
     }
   ]
