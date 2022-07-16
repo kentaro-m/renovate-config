@@ -36,6 +36,11 @@
     {
       "matchUpdateTypes": ["minor", "patch", "pin"],
       "automerge": true
+    },
+    {
+      "matchUpdateTypes": ["major"],
+      "matchDepTypes": ["dependencies"],
+      "enabled": false
     }
   ]
 }
