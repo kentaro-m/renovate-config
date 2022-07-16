@@ -4,7 +4,10 @@
     "config:base",
     "group:monorepos",
     ":timezone(Asia/Tokyo)",
-    ":prHourlyLimitNone"
+    ":prHourlyLimitNone",
+    ":dependencyDashboard",
+    ":noUnscheduledUpdates"
+
   ],
   "dependencyDashboard": true,
   "schedule": [
