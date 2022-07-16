@@ -5,7 +5,6 @@
     "group:monorepos",
     ":timezone(Asia/Tokyo)",
     ":prHourlyLimitNone",
-    ":dependencyDashboard",
     ":noUnscheduledUpdates"
 
   ],
