@@ -21,4 +21,4 @@ jobs:
       - name: Install the Renovate CLI
         run: npm install -g renovate
       - name: Validate the Renovate config
-        run: RENOVATE_CONFIG_FILE="default.json" renovate-config-validator
+        run: RENOVATE_CONFIG_FILE="default.json5" renovate-config-validator
